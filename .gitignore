@@ -1,0 +1,4 @@
+venv/
+requirements.in
+.ipynb_checkpoints/
+.git/
